@@ -8,4 +8,3 @@
 - Easy things at first(02-11-2019): O(n), O(nˆ2), dropping constants and relatively small terms that doesn't add to complexity.
 - Hard things at first(02-11-2019): O(n log n), O(log n), O(ab), recursive functions.
 - Stopped at example 10 (02-11-2019). Review examples 4, 5, 8, 9, and 10.
--
